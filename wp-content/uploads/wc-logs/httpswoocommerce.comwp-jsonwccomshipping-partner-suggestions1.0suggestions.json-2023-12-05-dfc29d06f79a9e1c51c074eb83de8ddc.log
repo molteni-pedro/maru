@@ -1,0 +1,630 @@
+2023-12-05T12:43:16+00:00 ERROR Spec is invalid because the id is missing in feed
+2023-12-05T12:43:16+00:00 ERROR stdClass Object
+(
+    [name] => ShipStation
+    [slug] => woocommerce-shipstation-integration
+    [description] => Solución potente a la vez que sencilla:
+    [layout_column] => stdClass Object
+        (
+            [image] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/shipstation-column.svg
+            [features] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/timer.svg
+                            [title] => Ahorra tiempo
+                            [description] => Importa automáticamente información del pedido para imprimir rápidamente tus etiquetas.
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/discount.svg
+                            [title] => Ahorra dinero
+                            [description] => Vende con las mejores tarifas de envío, y accede a tarifas pre-negociadas con descuento.
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/star.svg
+                            [title] => Sorprende a tus clientes
+                            [description] => Mantén informados a tus clientes con avisos de seguimiento.
+                        )
+
+                )
+
+        )
+
+    [layout_row] => stdClass Object
+        (
+            [image] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/shipstation-row.svg
+            [features] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Imprime etiquetas desde Royal Mail, Parcel Force, DPD, y muchos más
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Vende con las mejores tarifas, en tiempo real
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Conecta vendiendo canales fácilmente
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Flujos de trabajo automatizados avanzados
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => 30 días de prueba gratuita
+                        )
+
+                )
+
+        )
+
+    [learn_more_link] => https://wordpress.org/plugins/woocommerce-shipstation-integration/
+    [is_visible] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => or
+                    [operands] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => AU
+                                    [operation] => =
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => CA
+                                    [operation] => =
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => GB
+                                    [operation] => =
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [available_layouts] => Array
+        (
+            [0] => row
+            [1] => column
+        )
+
+)
+
+2023-12-05T12:43:16+00:00 ERROR Spec is invalid because the id is missing in feed
+2023-12-05T12:43:16+00:00 ERROR stdClass Object
+(
+    [name] => Skydropx
+    [slug] => skydropx-cotizador-y-envios
+    [layout_column] => stdClass Object
+        (
+            [image] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/skydropx-column.svg
+            [features] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/timer.svg
+                            [title] => Ahorra tiempo
+                            [description] => Importa automáticamente información del pedido para imprimir rápidamente tus etiquetas.
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/discount.svg
+                            [title] => Ahorra dinero
+                            [description] => Vende con las mejores tarifas de envío, y accede a tarifas pre-negociadas con descuento.
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/star.svg
+                            [title] => Sorprende a tus clientes
+                            [description] => Mantén informados a tus clientes con avisos de seguimiento.
+                        )
+
+                )
+
+        )
+
+    [description] => 
+    [learn_more_link] => https://wordpress.org/plugins/skydropx-cotizador-y-envios/
+    [is_visible] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => or
+                    [operands] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => MX
+                                    [operation] => =
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => CO
+                                    [operation] => =
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [available_layouts] => Array
+        (
+            [0] => column
+        )
+
+)
+
+2023-12-05T12:43:16+00:00 ERROR Spec is invalid because the id is missing in feed
+2023-12-05T12:43:16+00:00 ERROR stdClass Object
+(
+    [name] => Envia
+    [slug] => enviaya-shipping-for-woocommerce
+    [description] => 
+    [layout_column] => stdClass Object
+        (
+            [image] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/envia-column.svg
+            [features] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/timer.svg
+                            [title] => Ahorra tiempo
+                            [description] => Importa automáticamente información del pedido para imprimir rápidamente tus etiquetas.
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/discount.svg
+                            [title] => Ahorra dinero
+                            [description] => Vende con las mejores tarifas de envío, y accede a tarifas pre-negociadas con descuento.
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/star.svg
+                            [title] => Sorprende a tus clientes
+                            [description] => Mantén informados a tus clientes con avisos de seguimiento.
+                        )
+
+                )
+
+        )
+
+    [learn_more_link] => https://woo.com/products/envia-shipping-and-fulfillment/
+    [is_visible] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => or
+                    [operands] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => CL
+                                    [operation] => =
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => AR
+                                    [operation] => =
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => PE
+                                    [operation] => =
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => BR
+                                    [operation] => =
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => UY
+                                    [operation] => =
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => GT
+                                    [operation] => =
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [available_layouts] => Array
+        (
+            [0] => column
+        )
+
+)
+
+2023-12-05T12:43:16+00:00 ERROR Spec is invalid because the id is missing in feed
+2023-12-05T12:43:16+00:00 ERROR stdClass Object
+(
+    [name] => Sendcloud
+    [slug] => sendcloud-shipping
+    [description] => Herramienta de envío todo en uno:
+    [layout_column] => stdClass Object
+        (
+            [image] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/sendcloud-column.svg
+            [features] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/timer.svg
+                            [title] => Ahorra tiempo
+                            [description] => Importa automáticamente información del pedido para imprimir rápidamente tus etiquetas.
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/discount.svg
+                            [title] => Ahorra dinero
+                            [description] => Vende con las mejores tarifas de envío, y accede a tarifas pre-negociadas con descuento.
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/star.svg
+                            [title] => Sorprende a tus clientes
+                            [description] => Mantén informados a tus clientes con avisos de seguimiento.
+                        )
+
+                )
+
+        )
+
+    [layout_row] => stdClass Object
+        (
+            [image] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/sendcloud-row.svg
+            [features] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Imprime etiquetas de más de 80 empresas de transporte
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Procesa pedidos en solo unos pocos clics
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Personaliza las opciones de pago
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Auto-servicio de seguimiento y devoluciones
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Empieza con un plan gratuito
+                        )
+
+                )
+
+        )
+
+    [learn_more_link] => https://wordpress.org/plugins/sendcloud-shipping/
+    [is_visible] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => or
+                    [operands] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => NL
+                                    [operation] => =
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => AT
+                                    [operation] => =
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => BE
+                                    [operation] => =
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => FR
+                                    [operation] => =
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => DE
+                                    [operation] => =
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => ES
+                                    [operation] => =
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => GB
+                                    [operation] => =
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => IT
+                                    [operation] => =
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [available_layouts] => Array
+        (
+            [0] => row
+            [1] => column
+        )
+
+)
+
+2023-12-05T12:43:16+00:00 ERROR Spec is invalid because the id is missing in feed
+2023-12-05T12:43:16+00:00 ERROR stdClass Object
+(
+    [name] => Packlink
+    [slug] => packlink-pro-shipping
+    [description] => Optimiza tu proceso completo de envío:
+    [layout_column] => stdClass Object
+        (
+            [image] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/packlink-column.svg
+            [features] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/timer.svg
+                            [title] => Ahorra tiempo
+                            [description] => Importa automáticamente información del pedido para imprimir rápidamente tus etiquetas.
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/discount.svg
+                            [title] => Ahorra dinero
+                            [description] => Vende con las mejores tarifas de envío, y accede a tarifas pre-negociadas con descuento.
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/star.svg
+                            [title] => Sorprende a tus clientes
+                            [description] => Mantén informados a tus clientes con avisos de seguimiento.
+                        )
+
+                )
+
+        )
+
+    [layout_row] => stdClass Object
+        (
+            [image] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/packlink-row.svg
+            [features] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Importación de pedidos automatizada, en tiempo real
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Acceso directo a las principales empresas de transporte
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Acceso a precios de envío competitivos
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Imprime etiquetas en lotes rápidamente
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/check.svg
+                            [description] => Plataforma de envío gratuita
+                        )
+
+                )
+
+        )
+
+    [learn_more_link] => https://wordpress.org/plugins/packlink-pro-shipping/
+    [is_visible] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => or
+                    [operands] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => FR
+                                    [operation] => =
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => DE
+                                    [operation] => =
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => ES
+                                    [operation] => =
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => IT
+                                    [operation] => =
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [available_layouts] => Array
+        (
+            [0] => row
+            [1] => column
+        )
+
+)
+
+2023-12-05T12:43:16+00:00 ERROR Spec is invalid because the id is missing in feed
+2023-12-05T12:43:16+00:00 ERROR stdClass Object
+(
+    [name] => WooCommerce Shipping
+    [slug] => woocommerce-services
+    [description] => Ahorra tiempo y dinero al imprimir las etiquetas de envío directamente desde tu ordenador con WooCommerce Shipping. Prueba WooCommerce Shipping gratis.
+    [layout_column] => stdClass Object
+        (
+            [image] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/wcs-column.svg
+            [features] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/printer.svg
+                            [title] => Compra franqueo cuando lo necesites
+                            [description] => No hace falta que busques tus sellos.
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/paper.svg
+                            [title] => Imprime desde casa
+                            [description] => Recoge un pedido; luego, solo tienes que pagar, imprimir, empaquetar y enviarlo.
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [icon] => https://woo.com/wp-content/plugins/wccom-plugins/shipping-partner-suggestions/images/discount.svg
+                            [title] => Tarifas con descuento
+                            [description] => Accede a tarifas de envío con descuento con DHL y USPS.
+                        )
+
+                )
+
+        )
+
+    [learn_more_link] => https://woo.com/products/shipping/
+    [is_visible] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => or
+                    [operands] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [value] => US
+                                    [operation] => =
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [available_layouts] => Array
+        (
+            [0] => column
+        )
+
+)
+

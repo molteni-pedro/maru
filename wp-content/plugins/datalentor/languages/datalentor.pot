@@ -1,0 +1,510 @@
+# Copyright (C) 2018
+# This file is distributed under the same license as the  package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Datalentor\n"
+"Report-Msgid-Bugs-To: info@flickdevs.com\n"
+"POT-Creation-Date: 2023-08-12 12:07+0530\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: OceanWP\n"
+"Language-Team: AuburnForest <mzchowdhury.us@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: datalentor.php:93 datalentor.php:102
+#: includes/widgets/elementor-helper.php:8
+msgid "Datalentor"
+msgstr ""
+
+#: datalentor.php:93
+msgid " not working because you need to activate the Elementor plugin."
+msgstr ""
+
+#: datalentor.php:94
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: datalentor.php:102
+msgid " not working because you need to install the Elementor plugin"
+msgstr ""
+
+#: datalentor.php:103
+msgid "Install Elementor Now"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:30
+msgid "DL Data Table"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:51
+msgid "Header"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:57
+msgid "Column Name"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:59
+#: includes/widgets/datalentor-table.php:188
+#: includes/widgets/datalentor-table.php:189
+#: includes/widgets/datalentor-table.php:190
+#: includes/widgets/datalentor-table.php:191
+msgid "Table Header"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:65
+msgid "Column Span"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:73
+msgid "Enable Header Icon"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:75
+msgid "Yes"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:76
+msgid "No"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:83
+msgid "Header Icon Type"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:87
+#: includes/widgets/datalentor-table.php:357
+#: includes/widgets/datalentor-table.php:484
+#: includes/widgets/datalentor-table.php:597
+msgid "None"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:91
+#: includes/widgets/datalentor-table.php:107
+#: includes/widgets/datalentor-table.php:488
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:95
+#: includes/widgets/datalentor-table.php:133
+#: includes/widgets/datalentor-table.php:249
+#: includes/widgets/datalentor-table.php:492
+#: includes/widgets/datalentor-table.php:693
+msgid "Image"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:145
+msgid "Image Size(px)"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:156
+msgid "SVG Image Size(px)"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:169
+#: includes/widgets/datalentor-table.php:732
+msgid "CSS Class"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:176
+#: includes/widgets/datalentor-table.php:739
+msgid "CSS ID"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:204
+#: includes/widgets/datalentor-table.php:685
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:211
+msgid "New Row"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:215
+msgid "Col"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:216
+msgid "Row"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:221
+msgid "Col Span"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:223
+#: includes/widgets/datalentor-table.php:233
+msgid "Default: 1 (optional)."
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:231
+msgid "Row Span"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:241
+msgid "Content Type"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:245
+msgid "Textarea"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:253
+msgid "Templates"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:257
+msgid "Button"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:267
+msgid "Button Text"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:268
+msgid "Click here"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:277
+msgid "Button Link"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:293
+msgid "Button Alignment"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:297
+#: includes/widgets/datalentor-table.php:808
+#: includes/widgets/datalentor-table.php:961
+#: includes/widgets/datalentor-table.php:1146
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:301
+#: includes/widgets/datalentor-table.php:812
+#: includes/widgets/datalentor-table.php:965
+#: includes/widgets/datalentor-table.php:1150
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:305
+#: includes/widgets/datalentor-table.php:816
+#: includes/widgets/datalentor-table.php:969
+#: includes/widgets/datalentor-table.php:1154
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:309
+msgid "Justified"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:325
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:338
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:352
+msgid "Button Border"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:358
+msgid "Solid"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:359
+msgid "Double"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:360
+msgid "Dotted"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:361
+msgid "Dashed"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:362
+msgid "Groove"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:371
+msgid "Button Border Radius"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:393
+msgid "Button Border Width"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:407
+msgid "Button Border Color"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:420
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:433
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:446
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:459
+msgid "Button Padding"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:480
+msgid "Button Icon Type"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:504
+msgid "Button Icon"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:531
+msgid "Button Image"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:544
+msgid "Button Image Size(px)"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:556
+msgid "Button Icon Position"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:560
+msgid "Before"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:561
+msgid "After"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:573
+msgid "Button Icon Spacing"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:590
+msgid "Button Text Decoration"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:593
+#: includes/widgets/datalentor-table.php:612
+#: includes/widgets/datalentor-table.php:632
+msgid "Default"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:594
+msgid "Underline"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:595
+msgid "Overline"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:596
+msgid "Line Through"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:609
+msgid "Button Text Transform"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:613
+msgid "Uppercase"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:614
+msgid "Lowercase"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:615
+msgid "Capatilize"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:616
+#: includes/widgets/datalentor-table.php:642
+#: includes/widgets/datalentor-table.php:872
+#: includes/widgets/datalentor-table.php:994
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:628
+msgid "Button Font Weight"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:633
+msgid "100"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:634
+msgid "200"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:635
+msgid "300"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:636
+msgid "400"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:637
+msgid "500"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:638
+msgid "600"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:639
+msgid "700"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:640
+msgid "800"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:641
+msgid "900"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:643
+msgid "Bold"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:655
+msgid "Button Id"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:661
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-button-id"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:663
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore "
+"chars without spaces."
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:672
+msgid "Choose Template"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:682
+msgid "Cell Text"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:705
+msgid "Content Image Size(px)"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:716
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:770
+msgid "General Style"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:777
+msgid "Width"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:802
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:836
+msgid "Header Style"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:844
+msgid "Header Border Radius"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:860
+#: includes/widgets/datalentor-table.php:1066
+msgid "Padding"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:876
+#: includes/widgets/datalentor-table.php:913
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:890
+#: includes/widgets/datalentor-table.php:927
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:902
+#: includes/widgets/datalentor-table.php:938
+#: includes/widgets/datalentor-table.php:1058
+msgid "Border"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:909
+#: includes/widgets/datalentor-table.php:1077
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:956
+msgid "Title Alignment"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:987
+msgid "Content Style"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:998
+msgid "ODD Cell"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:1005
+#: includes/widgets/datalentor-table.php:1081
+msgid "Color ( Odd Row )"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:1016
+#: includes/widgets/datalentor-table.php:1091
+msgid "Background ( Odd Row )"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:1027
+#: includes/widgets/datalentor-table.php:1101
+msgid "Even Cell"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:1035
+#: includes/widgets/datalentor-table.php:1108
+msgid "Color ( Even Row )"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:1046
+#: includes/widgets/datalentor-table.php:1119
+msgid "Background Color (Even Row)"
+msgstr ""
+
+#: includes/widgets/datalentor-table.php:1141
+msgid "Content Alignment"
+msgstr ""

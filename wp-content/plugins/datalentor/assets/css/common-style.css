@@ -1,0 +1,77 @@
+.dtle-data-table tbody tr td {
+    padding: 20px 15px;
+    font-size: 14px;
+    line-height: 1;
+    border-width: 2px;
+    border-style: none;
+    background-clip: padding-box;
+}
+.dtle-data-table thead tr th {
+    padding: 20px 15px;
+    background: #4a4893;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1;
+    color: #fff;
+    border-color: #000;
+    border-width: 2px;
+    border-style: none;
+    background-clip: padding-box;
+    text-align: left;
+}
+.dtle-content-button.justify a {
+    width: 100%;
+}
+.dtle-content-button.solid a {
+    border-style: solid;
+}
+.dtle-content-button.double a {
+    border-style: double;
+}
+.dtle-content-button.dotted a {
+    border-style: dotted;
+}
+.dtle-content-button.dashed a {
+    border-style: dashed;
+}
+.dtle-content-button.groove a {
+    border-style: groove;
+}
+.dtle-data-table .elementor-button-icon img.dtle-data-table-th-img,
+.dtle-data-table .table-header img.data-header-svg {
+    vertical-align: bottom;
+}
+.dtle-data-table .elementor-button-icon img.elementor-button-img {
+    vertical-align: middle;
+}
+.dtle-data-table .dtle-data-header-icon, .dtle-data-table .data-header-svg {
+    margin-right: 5px;
+}
+.dtle-dt-th-align-left .dtle-data-table thead tr th {
+    text-align: left;
+}
+.dtle-dt-th-align-center .dtle-data-table thead tr th {
+    text-align: center;
+}
+.dtle-dt-th-align-right .dtle-data-table thead tr th {
+    text-align: right;
+    padding-right: 30px;
+}
+.dtle-dt-td-align-left .dtle-data-table tbody tr td {
+    text-align: left;
+}
+.dtle-dt-td-align-right .dtle-data-table tbody tr td {
+    text-align: right;
+    padding-right: 30px;
+}
+.dtle-dt-td-align-center .dtle-data-table tbody tr td {
+    text-align: center;
+}
+.dtle-data-table-wrap{
+    display:flex;
+}
+@media (max-width: 1024px) {
+    .dtle-data-table-wrap{
+        overflow: scroll;
+    }
+}

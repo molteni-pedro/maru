@@ -1,0 +1,1712 @@
+# Translation of Plugins - Payment Plugins for PayPal WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Payment Plugins for PayPal WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-11-23 21:12:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Payment Plugins for PayPal WooCommerce - Stable (latest release)\n"
+
+#: templates/checkout/paypal.php:17
+msgid "After clicking \"%s\", you will be redirected to PayPal to complete your purchase securely."
+msgstr "Tras hacer clic en «%s», serás redirigido a PayPal para completar tu compra de forma segura."
+
+#: src/Payments/Gateways/PayPalGateway.php:615
+msgid "Place order"
+msgstr "Realizar pedido"
+
+#: src/Payments/Gateways/PayPalGateway.php:28
+msgid "PayPal Gateway By Payment Plugins"
+msgstr "Pasarela PayPal por Payment Plugins"
+
+#: packages/blocks/src/Payments/Gateways/PayPalGateway.php:37
+#: src/Payments/Gateways/PayPalGateway.php:167
+msgid "Pay with PayPal"
+msgstr "Pagar con PayPal"
+
+#: src/Payments/Gateways/PayPalGateway.php:169
+msgid "The text for the Place Order button when PayPal is selected. Leave blank to use the default WooCommerce text."
+msgstr "El texto para el botón de «Realizar pedido» cuando se selecciona PayPal. Dejar en blanco para usar el texto por defecto de WooCommerce."
+
+#: src/Payments/Gateways/PayPalGateway.php:165
+msgid "Button Text"
+msgstr "Texto de botón"
+
+#: src/Payments/Gateways/PayPalGateway.php:161
+msgid "If enabled, the plugin will use the Place Order button on the checkout page rather than rendering the PayPal buttons. This option does not affect express checkout."
+msgstr "Si se activa, el plugin usará el botón de «Realizar pedido» de la página de pago en lugar de mostrar los botones de PayPal. Esta opción no afecta al pago exprés."
+
+#: packages/blocks/src/Payments/Gateways/PayPalGateway.php:36
+msgid "After clicking \"Pay with PayPal\", you will be redirected to PayPal to complete your purchase securely."
+msgstr "Tras hacer clic en «Pagar con PayPal», serás redirigido a PayPal para completar tu compra de forma segura."
+
+#: src/Payments/Gateways/PayPalGateway.php:156
+msgid "Use Place Order Button"
+msgstr "Usar el botón de «Realizar pedido»"
+
+#: src/Rest/Routes/CartOrder.php:85
+msgid "Please enter a valid shipping address."
+msgstr "Por favor, introduce una dirección de envío válida."
+
+#: src/Admin/Views/html-main-page.php:79
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: src/Admin/Views/html-main-page.php:77
+msgid "Activate"
+msgstr "Activar"
+
+#: src/Admin/Settings/AdvancedSettings.php:111
+msgid "If enabled, the customer will not be able to change their shipping address in the PayPal popup. This option has no effect on express checkout on the checkout page."
+msgstr "Si está activo, el cliente no podrá cambiar la dirección de envío en la ventana emergente de PayPal. Esta opción no tiene efecto en el pago exprés de la página de pago."
+
+#: src/Admin/Settings/AdvancedSettings.php:106
+msgid "Disable PayPal Shipping Address"
+msgstr "Desactivar dirección de envío de PayPal"
+
+#: src/Admin/PageController.php:32
+msgid ""
+"Offer Apple Pay, Google Pay, and buy now pay later options like Affirm, Afterpay and Klarna. Our Stripe\n"
+"\t\t\t\tplugin is the highest rated for WooCommerce."
+msgstr ""
+"Ofrece Apple Pay, Google Pay, y opciones de comprar ahora y pagar después como Affirm, Afterpay y Klarna. Nuestro plugin de\n"
+"\t\t\t\tStripe es el mejor valorado para WooCommerce."
+
+#: src/Admin/PageController.php:31
+msgid "Payment Plugins for Stripe WooCommerce"
+msgstr "Payment Plugins for Stripe WooCommerce"
+
+#: src/Admin/Settings/APISettings.php:367
+msgid "The PayPal connect feature is not available at this time. Please manually enter your client ID and secret key."
+msgstr "La característica PayPal connect no está disponible en este momento. Por favor, introduce de forma manual el ID de cliente y la clave secreta."
+
+#: src/CheckoutValidator.php:66
+msgctxt "checkout-validation"
+msgid "Shipping %s"
+msgstr "Envío %s"
+
+#: src/CheckoutValidator.php:64
+msgctxt "checkout-validation"
+msgid "Billing %s"
+msgstr "Facturación %s"
+
+#: src/CheckoutValidator.php:70
+msgid "%s is a required field."
+msgstr "%s es un campo obligatorio."
+
+#: src/Factories/ItemsFactory.php:179 src/Factories/ItemsFactory.php:181
+msgid "Product %1$s"
+msgstr "Producto %1$s"
+
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:142
+msgid "Credit/Debit Card Button"
+msgstr "Botón de tarjeta de crédito/débito"
+
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:100
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:126
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:146
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:166
+msgid "On"
+msgstr "Activo"
+
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:96
+msgid "PayPal Button"
+msgstr "Botón de PayPal"
+
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:75
+msgid "General"
+msgstr "General"
+
+#: src/Admin/Settings/AdvancedSettings.php:97
+msgid "Validate Checkout Fields"
+msgstr "Validar campos de página de pago"
+
+#: packages/elementor/src/Widget/ProductPaymentButtonsWidget.php:14
+msgid "PayPal Product Payment Buttons"
+msgstr "Botones de pago de PayPal en productos"
+
+#: packages/elementor/src/Widget/CartPaymentButtonsWidget.php:17
+msgid "PayPal Cart Payment Buttons"
+msgstr "Botones de pago de PayPal en carrito"
+
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:162
+msgid "Venmo Button"
+msgstr "Botón de Venmo"
+
+#: src/Admin/Settings/AdvancedSettings.php:101
+msgid ""
+"Enable this option if you want the PayPal plugin to validate the checkout page required fields when the PayPal button is clicked. If required fields are missing,\n"
+"\t\t\t\ta notice will be shown to the customer on the checkout page. PayPal has the ability to provide the billing and shipping address info automatically so we recommend leaving this option off. \n"
+"\t\t\t\tThe checkout fields won't be validated if your customer clicks the express checkout PayPal buttons since the fields will be populated by PayPal automatically."
+msgstr ""
+"Activa esta opción si quieres que el plugin de PayPal valide los campos obligatorios de la página de pago al hacer clic en el botón de PayPal. Si falta algún campo obligatorio,\n"
+"\t\t\t\tse mostrará un aviso al cliente en la página de pago. PayPal puede rellenar automáticamente la información de las direcciones de facturación y de envío, por lo que recomendamos dejar esta opción desactivada. \n"
+"\t\t\t\tLos campos de la finalización del pago no se validarán si el cliente hace clic en los botones de pago exprés de PayPal, ya que en este caso los campos serán rellenados por PayPal automáticamente."
+
+#: src/WebhookEventReceiver.php:90
+msgid "PayPal transaction %s has been cancelled."
+msgstr "La transacción de PayPal %s se ha cancelado."
+
+#: src/PaymentHandler.php:153
+msgid "PayPal capture status is pending. Reason: %1$s. Payment will complete when capture.completed webhook is received."
+msgstr "El estado de captura en Paypal es pendiente. Razón: %1$s. El pago se completará cuando se reciba el webhook capture.completed."
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:434
+msgid "Below Add to Cart"
+msgstr "Debajo de «Añadir al carrito»"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:433
+msgid "Below Price"
+msgstr "Debajo del precio"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:432
+msgid "Above Price"
+msgstr "Encima del precio"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:428
+msgid "Message Location"
+msgstr "Ubicación del mensaje"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:437
+msgid "This option controls the location in which the messaging for the payment method will appear."
+msgstr "Esta opción controla la ubicación en la que aparecerá el mensaje para el método de pago."
+
+#: src/Admin/MetaBoxes/Order.php:96
+msgid "Tracking #"
+msgstr "Seguimiento #"
+
+#: src/Admin/MetaBoxes/Order.php:93
+msgid "In this section, you can add tracking info to the PayPal transaction."
+msgstr "En esta sección puedes añadir información de seguimiento a la transacción de PayPal."
+
+#: src/Admin/MetaBoxes/Order.php:90
+#: src/Rest/Routes/Admin/AdminOrderTracking.php:60
+msgid "Tracking cannot be added until the payment is captured."
+msgstr "El seguimento no puede añadirse hasta que el pago haya sido capturado."
+
+#: src/Admin/MetaBoxes/Order.php:83
+msgid "There are no transaction actions available."
+msgstr "No hay acciones de transacción disponibles."
+
+#: src/Admin/MetaBoxes/Order.php:78
+msgid "Capture Amount"
+msgstr "Capturar importe"
+
+#: src/Admin/MetaBoxes/Order.php:68
+msgid "Shipping Actions"
+msgstr "Acciones de envío"
+
+#: src/Admin/MetaBoxes/Order.php:64
+msgid "Transaction Actions"
+msgstr "Acciones de transacción"
+
+#: src/Rest/Routes/Admin/AdminOrderTracking.php:87
+msgid "The tracking information has been updated."
+msgstr "La información de seguimiento se ha actualizado."
+
+#: src/Rest/Routes/Admin/AdminOrderTracking.php:33
+msgid "Tracking number is a required field."
+msgstr "El número de seguimiento es un campo obligatorio."
+
+#: src/Admin/MetaBoxes/Order.php:148
+msgid "Submit"
+msgstr "Enviar"
+
+#: src/Admin/MetaBoxes/Order.php:142 src/Admin/MetaBoxes/Order.php:143
+#: src/Admin/MetaBoxes/Order.php:147
+msgid "Processing..."
+msgstr "Procesando..."
+
+#: src/Admin/MetaBoxes/Order.php:129
+msgid "Notify Buyer"
+msgstr "Avisar al comprador"
+
+#: src/Admin/MetaBoxes/Order.php:125
+msgid "Carrier Name"
+msgstr "Nombre del transportista"
+
+#: src/Rest/Routes/Admin/AdminOrderTracking.php:97
+msgid "Carrier name is required when the selected carrier is \"Other\"."
+msgstr "Se necesita un nombre del transportista cuando el transportista seleccionado es «Otro»."
+
+#: src/Admin/MetaBoxes/Order.php:116
+msgid "Carrier"
+msgstr "Transportista"
+
+#: src/Admin/MetaBoxes/Order.php:108
+msgid "Shipping Status"
+msgstr "Estado del envío"
+
+#: src/Utilities/ShippingUtil.php:33
+msgid "International SEUR"
+msgstr "SEUR Internacional"
+
+#: src/Utilities/ShippingUtil.php:53
+msgid "Shipped"
+msgstr "Enviado"
+
+#: src/Utilities/ShippingUtil.php:63
+msgid "Marketplace"
+msgstr "Marketplace"
+
+#: src/Utilities/ShippingUtil.php:62
+msgid "Carrier Provided"
+msgstr "Proporcionado por el transportista"
+
+#: src/Utilities/ShippingUtil.php:56
+msgid "Canceled"
+msgstr "Cancelado"
+
+#: src/Utilities/ShippingUtil.php:55
+msgid "Delivered"
+msgstr "Entregado"
+
+#: src/Utilities/ShippingUtil.php:54
+msgid "On Hold"
+msgstr "En espera"
+
+#: src/Utilities/ShippingUtil.php:47
+msgid "WebInterpret"
+msgstr "WebInterpret"
+
+#: src/Utilities/ShippingUtil.php:46
+msgid "UPS Mail Innovations"
+msgstr "UPS Mail Innovations"
+
+#: src/Utilities/ShippingUtil.php:45
+msgid "UPS"
+msgstr "UPS"
+
+#: src/Utilities/ShippingUtil.php:44
+msgid "TNT Global"
+msgstr "TNT Global"
+
+#: src/Utilities/ShippingUtil.php:43
+msgid "Spreadel"
+msgstr "Spreadel"
+
+#: src/Utilities/ShippingUtil.php:42
+msgid "SkyNet Worldwide Express"
+msgstr "SkyNet Worldwide Express"
+
+#: src/Utilities/ShippingUtil.php:41
+msgid "SF EXPRESS"
+msgstr "SF EXPRESS"
+
+#: src/Utilities/ShippingUtil.php:40
+msgid "Raben Group"
+msgstr "Raben Group"
+
+#: src/Utilities/ShippingUtil.php:39
+msgid "Posti"
+msgstr "Posti"
+
+#: src/Utilities/ShippingUtil.php:37
+msgid "One World"
+msgstr "One World"
+
+#: src/Utilities/ShippingUtil.php:36
+msgid "Omni Parcel"
+msgstr "Omni Parcel"
+
+#: src/Utilities/ShippingUtil.php:35
+msgid "Matkahuoloto"
+msgstr "Matkahuoloto"
+
+#: src/Utilities/ShippingUtil.php:34
+msgid "Landmark Global"
+msgstr "Landmark Global"
+
+#: src/Utilities/ShippingUtil.php:32
+msgid "IMX France"
+msgstr "IMX France"
+
+#: src/Utilities/ShippingUtil.php:16
+msgid "DHL Benelux"
+msgstr "DHL Benelux"
+
+#: src/Utilities/ShippingUtil.php:15
+msgid "DHL Active Tracing"
+msgstr "DHL Active Tracing"
+
+#: src/Utilities/ShippingUtil.php:14
+msgid "Correos Express"
+msgstr "Correos Express"
+
+#: src/Utilities/ShippingUtil.php:13
+msgid "CJ Logistics"
+msgstr "CJ Logistics"
+
+#: src/Utilities/ShippingUtil.php:12
+msgid "B2C Europe"
+msgstr "B2C Europe"
+
+#: src/Utilities/ShippingUtil.php:11
+msgid "Aramex"
+msgstr "Aramex"
+
+#: src/Utilities/ShippingUtil.php:31
+msgid "GLS"
+msgstr "GLS"
+
+#: src/Utilities/ShippingUtil.php:30
+msgid "FLYT Express"
+msgstr "FLYT Express"
+
+#: src/Utilities/ShippingUtil.php:29
+msgid "FedEx"
+msgstr "FedEx"
+
+#: src/Utilities/ShippingUtil.php:28
+msgid "EShopWorld"
+msgstr "EShopWorld"
+
+#: src/Utilities/ShippingUtil.php:27
+msgid "DTDC Express Global"
+msgstr "DTDC Express Global"
+
+#: src/Utilities/ShippingUtil.php:26
+msgid "DPEX Hong Kong"
+msgstr "DPEX Hong Kong"
+
+#: src/Utilities/ShippingUtil.php:25
+msgid "DPE Express"
+msgstr "DPE Express"
+
+#: src/Utilities/ShippingUtil.php:24
+msgid "DPD Local Reference"
+msgstr "DPD Local Reference"
+
+#: src/Utilities/ShippingUtil.php:23
+msgid "DPD Local"
+msgstr "DPD Local"
+
+#: src/Utilities/ShippingUtil.php:22
+msgid "DPD Global"
+msgstr "DPD Global"
+
+#: src/Utilities/ShippingUtil.php:21
+msgid "DHL Packet"
+msgstr "DHL Packet"
+
+#: src/Utilities/ShippingUtil.php:20
+msgid "DHL Global eCommerce"
+msgstr "DHL Global eCommerce"
+
+#: src/Utilities/ShippingUtil.php:19
+msgid "DHL Express"
+msgstr "DHL Express"
+
+#: src/Utilities/ShippingUtil.php:18
+msgid "DHL eCommerce Asia"
+msgstr "DHL eCommerce Asia"
+
+#: src/Utilities/ShippingUtil.php:17
+msgid "DHL ecCommerce US"
+msgstr "DHL ecCommerce US"
+
+#: src/Factories/ItemsFactory.php:155 src/Factories/ItemsFactory.php:162
+msgid "Product ID: %1$s"
+msgstr "ID de producto: %1$s"
+
+#: src/Factories/ItemsFactory.php:153 src/Factories/ItemsFactory.php:160
+msgid "Product ID: %1$s. Variation ID: %2$s"
+msgstr "ID de producto: %1$s. ID de variación: %2$s"
+
+#: src/PaymentHandler.php:380
+msgid "Order cancellation"
+msgstr "Cancelación de pedido"
+
+#: src/PaymentHandler.php:356 src/PaymentHandler.php:387
+msgid "PayPal authorization cancelled. Authorization ID: %s"
+msgstr "Autorización de PayPal cancelada. ID de autorización: %s"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:570
+msgid "Shop Page Settings"
+msgstr "Ajustes de la página de la tienda"
+
+#: src/Payments/Gateways/PayPalGateway.php:149
+msgid "If enabled, the PayPal payment gateway will render a popup icon indicating to the customer that they must click the PayPal button."
+msgstr "Si está activo, la pasarela de pagos PayPal mostrará un icono emergente indicando al usuario que debe hacer clic en el botón de PayPal."
+
+#: src/Payments/Gateways/PayPalGateway.php:145
+msgid "Show Popup Icon and Text"
+msgstr "Mostrar icono emergente y texto"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:586
+msgid "Below Add to cart button"
+msgstr "Debajo del botón «Añadir al carrito»"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:585
+msgid "Below product price"
+msgstr "Debajo del precio del producto"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:588
+msgid "Location where the Pay Later message appears on the shop/category page"
+msgstr "Posición en la que aparece el mensaje «Paga en 3 plazos» en las páginas de tienda/categoría"
+
+#: src/Messages.php:22
+msgid "PayPal does not support currency %. Please use a supported currency."
+msgstr "PayPal no admite la moneda %. Por favor, emplea una moneda compatible."
+
+#: src/Messages.php:21
+msgid "Invalid PayPal client ID. Please check your API Settings."
+msgstr "Id. de cliente PayPal no válido. Por favor: revisa tus ajustes de API."
+
+#: packages/mondial-relay/src/CheckoutValidation.php:32
+msgid "Please choose a <strong>Point Relais®</strong>."
+msgstr "Por favor, elige un <strong>Point Relais®</strong>."
+
+#: src/WebhookEventReceiver.php:148
+msgid "Dispute %1$s resolved."
+msgstr "Disputa %1$s resuelta."
+
+#: src/WebhookEventReceiver.php:136
+msgid "Dispute %1$s created. Dispute reason: %2$s."
+msgstr "Disputa %1$s creada. Motivo de disputa: %2$s."
+
+#: src/Admin/Settings/AdvancedSettings.php:47
+msgid "Site language"
+msgstr "Idioma del sitio"
+
+#: src/Admin/Settings/AdvancedSettings.php:46
+msgid "Auto"
+msgstr "Automático"
+
+#: src/Admin/Settings/AdvancedSettings.php:50
+msgid ""
+"If set to auto, PayPal will determine the language to render the PayPal buttons in based on the customer's IP address and browser settings. If set to site, the plugin will use the \n"
+"\t\t\t\tWordPress site locale setting."
+msgstr ""
+"Si se establece a «Automático», PayPal determinará el idioma en el que  mostrar los botones de PayPal según la dirección IP del cliente y sus ajustes del navegador. Si se establece en «Idioma del sitio», el plugin empleará\n"
+"\t\t\t\tel ajuste de internacionalización de WordPress."
+
+#: src/Admin/Settings/AdvancedSettings.php:42
+msgid "Locale Setting"
+msgstr "Ajustes de idioma local"
+
+#: src/Admin/Settings/AdvancedSettings.php:67
+msgid "Completed"
+msgstr "Completado"
+
+#: src/Admin/Settings/AdvancedSettings.php:63
+msgid "Capture Status"
+msgstr "Estado de captura"
+
+#: src/Messages.php:26
+msgid "This merchant account is not permitted to create Merchant Initiated Billing Agreements. Please contact PayPal support and request reference transaction access."
+msgstr "A esta cuenta de vendedor no se le permite crear acuerdos de pago iniciados por el vendedor. Ponte en contacto con el soporte técnico de Paypal y solicita el acceso de transacciones por referencia."
+
+#: src/Admin/Settings/AdvancedSettings.php:72
+msgid "For orders that are authorized, when the order is set to this status, it will trigger a capture. When set to manual, the payment must be manually captured."
+msgstr "Para aquellos pedidos que están autorizados, cuando el pedido se cambie a este estado, se realizará una captura. Cuando se establece en manual, el pago deberá ser capturado manualmente."
+
+#: src/Admin/Settings/AdvancedSettings.php:69
+msgid "Manual"
+msgstr "Manual"
+
+#: src/Admin/Settings/AdvancedSettings.php:68
+msgid "Processing"
+msgstr "En proceso"
+
+#: src/Payments/Gateways/PayPalGateway.php:341
+msgid "If enabled, the card button tagline will be rendered beneath the button."
+msgstr "Si se activa, la descripción corta del botón de la tarjeta se mostrará bajo el botón"
+
+#: src/Payments/Gateways/PayPalGateway.php:336
+msgid "Tagline enabled"
+msgstr "Descripción corta activa"
+
+#: src/Admin/Settings/AdvancedSettings.php:35
+msgid "Order Prefix"
+msgstr "Prefijo de pedido"
+
+#: src/Admin/Settings/AdvancedSettings.php:39
+msgid "If you're using the same PayPal account on multiple sites we recommend adding an order prefix to prevent invoice duplicates in PayPal."
+msgstr "Si se usa la misma cuenta de PayPal en varios sitios, recomendamos añadir un prefijo al número de pedido para evitar facturas duplicadas en PayPal."
+
+#: templates/checkout/paypal.php:19
+msgid "Click the PayPal button below to process your order."
+msgstr "Haz clic en el botón de PayPal debajo para procesar tu pedido."
+
+#: src/Rest/Routes/CartShipping.php:62
+msgid "There are no shipping options available for the provided address."
+msgstr "No hay opciones de envío disponibles para la dirección seleccionada."
+
+#: src/Rest/Routes/CartItem.php:48
+msgid "Error adding product to cart."
+msgstr "Error al añadir el producto al carrito."
+
+#: src/Rest/Routes/CartCheckout.php:74
+msgid "Please fill out all required fields then click Place Order."
+msgstr "Por favor, rellena todos los campos obligatorios y después completa el pedido."
+
+#: src/Payments/Gateways/PayPalGateway.php:562
+msgid "Order Pay"
+msgstr "Pago de pedidos"
+
+#: src/Payments/Gateways/PayPalGateway.php:560
+msgid "Checkout Page"
+msgstr "Página de pago"
+
+#: src/Payments/Gateways/PayPalGateway.php:559
+msgid "Cart Page"
+msgstr "Página de carrito"
+
+#: src/Payments/Gateways/PayPalGateway.php:558
+msgid "Product Page"
+msgstr "Página de producto"
+
+#: src/Payments/Gateways/PayPalGateway.php:529
+msgid "Credit Card Enabled"
+msgstr "Tarjeta de crédito activa"
+
+#: src/Payments/Gateways/PayPalGateway.php:523
+msgid "Pay Later Enabled"
+msgstr "Pago en 3 Plazos activo"
+
+#: src/Payments/Gateways/PayPalGateway.php:502
+msgid "PayPal Enabled"
+msgstr "PayPal activo"
+
+#: src/Payments/Gateways/PayPalGateway.php:347
+msgid "Credit Card Payment Sections"
+msgstr "Secciones de pago con tarjeta de crédito"
+
+#: src/Payments/Gateways/PayPalGateway.php:314
+msgid "Card Enabled"
+msgstr "Tarjeta activa"
+
+#: src/Payments/Gateways/PayPalGateway.php:134
+msgid "Place Order Button"
+msgstr "Botón de realizar pedido"
+
+#: src/Payments/Gateways/PayPalGateway.php:212
+msgid "Pay"
+msgstr "Pagar"
+
+#: src/Payments/Gateways/PayPalGateway.php:211
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+#: src/Payments/Gateways/PayPalGateway.php:210
+msgid "Checkout"
+msgstr "Finalizar pago"
+
+#: src/Payments/Gateways/PayPalGateway.php:209
+msgid "Standard"
+msgstr "Estándar"
+
+#: src/Payments/Gateways/PayPalGateway.php:106
+msgid "Billing Agreement"
+msgstr "Acuerdo de pagos"
+
+#: src/Payments/Gateways/PayPalGateway.php:104
+msgid "Billing Agreement Description"
+msgstr "Descripción de acuerdo de pagos"
+
+#: src/Payments/Gateways/PayPalGateway.php:95
+msgctxt "Order status"
+msgid "Failed"
+msgstr "Fallido"
+
+#: src/Payments/Gateways/PayPalGateway.php:94
+msgctxt "Order status"
+msgid "Refunded"
+msgstr "Reembolsado"
+
+#: src/Payments/Gateways/PayPalGateway.php:93
+msgctxt "Order status"
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#: src/Payments/Gateways/PayPalGateway.php:92
+msgctxt "Order status"
+msgid "Completed"
+msgstr "Completado"
+
+#: src/Payments/Gateways/PayPalGateway.php:91
+msgctxt "Order status"
+msgid "On hold"
+msgstr "En espera"
+
+#: src/Payments/Gateways/PayPalGateway.php:90
+msgctxt "Order status"
+msgid "Processing"
+msgstr "En proceso"
+
+#: src/Payments/Gateways/PayPalGateway.php:54 src/Tokens/PayPalToken.php:15
+#: src/Tokens/PayPalToken.php:16 src/Tokens/PayPalToken.php:17
+#: src/Tokens/PayPalToken.php:20
+msgid "PayPal"
+msgstr "PayPal"
+
+#: src/Payments/Gateways/PayPalGateway.php:52
+msgid "Title"
+msgstr "Título"
+
+#: src/PaymentHandler.php:169
+msgid "Authorization ID: %s"
+msgstr "Id. de autorización: %s"
+
+#: src/PaymentHandler.php:169
+msgid "Capture ID: %s"
+msgstr "Id. de captura: %s"
+
+#: src/Factories/PurchaseUnitFactory.php:74
+msgid "Reconciliation"
+msgstr "Reconciliación"
+
+#: src/Factories/ItemsFactory.php:49 src/Factories/ItemsFactory.php:115
+msgid "Fees"
+msgstr "Cuotas"
+
+#: src/Admin/Views/html-support-page.php:37
+msgid "Create Ticket"
+msgstr "Crear un tique"
+
+#: src/Admin/MetaBoxes/Order.php:142 src/Payments/Gateways/PayPalGateway.php:71
+#: src/Payments/Gateways/PayPalGateway.php:513
+msgid "Capture"
+msgstr "Capturar"
+
+#: src/Admin/MetaBoxes/Order.php:55
+msgid "PayPal Order"
+msgstr "Pedido de PayPal"
+
+#: src/Admin/MetaBoxes/Order.php:49
+msgid "PayPal Actions"
+msgstr "Acciones de PayPal"
+
+#: src/Admin/Menus.php:14
+msgid "PayPal by Payment Plugins"
+msgstr "PayPal por Payment Plugins"
+
+#: src/Admin/Install.php:47 src/Admin/Views/html-main-navigation.php:20
+#: src/Admin/Views/html-main-page.php:17
+msgid "Settings"
+msgstr "Ajustes"
+
+#: src/Payments/Gateways/PayPalGateway.php:561
+#: templates/checkout/express-checkout.php:12
+msgid "Express Checkout"
+msgstr "Pago rápido"
+
+#. Author of the plugin
+msgid "Payment Plugins, support@paymentplugins.com"
+msgstr "Payment Plugins, support@paymentplugins.com"
+
+#. Description of the plugin
+msgid "Accept PayPal on your WooCommerce site."
+msgstr "Aceptar PayPal en tu sitio WooCommerce."
+
+#. Plugin URI of the plugin
+msgid "https://docs.paymentplugins.com/wc-paypal/config/"
+msgstr "https://docs.paymentplugins.com/wc-paypal/config/"
+
+#. Plugin Name of the plugin
+msgid "Payment Plugins for PayPal WooCommerce"
+msgstr "Payment Plugins para PayPal WooCommerce"
+
+#: src/Utilities/ShippingUtil.php:38
+msgid "Other"
+msgstr "Otros"
+
+#: src/Admin/Settings/AdvancedSettings.php:15
+#: src/Admin/Settings/AdvancedSettings.php:25
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: src/Admin/Settings/AdvancedSettings.php:28
+msgid "Display Name"
+msgstr "Nombre para mostrar"
+
+#: src/Admin/MetaBoxes/Views/html-product-data.php:20
+msgid "Above add to cart"
+msgstr "Encima de «Añadir al carrito»"
+
+#: src/Admin/MetaBoxes/Views/html-product-data.php:19
+msgid "Below add to cart"
+msgstr "Debajo de «Añadir al carrito»"
+
+#: src/Admin/MetaBoxes/Views/html-product-data.php:17
+msgid "Button Position"
+msgstr "Posición del botón"
+
+#: src/Admin/MetaBoxes/ProductData.php:29
+#: src/Payments/Gateways/PayPalGateway.php:29 src/ProductSettings.php:34
+msgid "PayPal Settings"
+msgstr "Ajustes de PayPal"
+
+#: src/Admin/MetaBoxes/Order.php:176
+msgid "Net payout"
+msgstr "Pago neto"
+
+#: src/Admin/MetaBoxes/Order.php:171
+msgid "PayPal Fee"
+msgstr "Cuota de PayPal"
+
+#: src/Admin/MetaBoxes/Views/html-product-data.php:23
+msgid "The location of the payment buttons in relation to the Add to Cart button."
+msgstr "La posición de los botones de pago respecto al botón «Añadir al carrito»."
+
+#: src/Admin/Settings/AdvancedSettings.php:79
+#: src/Admin/Settings/AdvancedSettings.php:90
+#: src/Admin/Settings/PayLaterMessageSettings.php:457
+msgid "Below checkout button"
+msgstr "Bajo el botón de pago"
+
+#: src/Admin/Settings/AdvancedSettings.php:75
+msgid "Cart Button Location"
+msgstr "Posición del botón del carrito"
+
+#: src/Admin/Settings/AdvancedSettings.php:54
+msgid "Refund On Cancel"
+msgstr "Reembolsar al cancelar"
+
+#: src/Admin/Settings/AdvancedSettings.php:32
+msgid "This is the business name that is displayed in the PayPal popup."
+msgstr "Este es el nombre de negocio que se muestra en la ventana emergente de PayPal."
+
+#: src/Admin/Settings/APISettings.php:226
+msgid "Configuring connection to PayPal..."
+msgstr "Configurando conexión con PayPal..."
+
+#: src/Admin/Settings/APISettings.php:192
+msgid "Created"
+msgstr "Creado"
+
+#: src/Admin/Settings/APISettings.php:187
+#: src/Admin/Settings/APISettings.php:227
+msgid "Delete Connection"
+msgstr "Eliminar conexión"
+
+#: src/Admin/Settings/APISettings.php:228
+msgid "Press OK to continue deleting your connection data."
+msgstr "Pulsa Aceptar para continuar con la eliminación de tus datos de conexión."
+
+#: src/Admin/Settings/APISettings.php:185
+msgid "Connected"
+msgstr "Conectado"
+
+#: src/Admin/Settings/APISettings.php:185
+#: src/Admin/Settings/APISettings.php:191
+msgid "Status"
+msgstr "Estado"
+
+#: src/Admin/Settings/APISettings.php:176
+msgid "When enabled, valuable debugging information will be captured and stored in the WooCommerce logs."
+msgstr "Si está activo, se realizará una útil captura de información de depuración y se almacenará en los registros (logs) de WooCommerce."
+
+#: src/Admin/Settings/APISettings.php:171
+msgid "Debug Enabled"
+msgstr "Depuración activa"
+
+#: src/Admin/Settings/APISettings.php:159
+msgid "Production Webhook ID"
+msgstr "Id. de webhook de producción"
+
+#: src/Admin/Settings/APISettings.php:139
+msgid "Sandbox Webhook ID"
+msgstr "Id. de webhook de entorno de prueba"
+
+#: src/Admin/Settings/APISettings.php:131
+#: src/Admin/Settings/APISettings.php:151
+msgid "Webhook URL"
+msgstr "URL de Webhook"
+
+#: src/Admin/Settings/APISettings.php:121
+msgid "Production Secret Key"
+msgstr "Clave secreta de producción"
+
+#: src/Admin/Settings/APISettings.php:111
+msgid "Production Client ID"
+msgstr "Id. de cliente de producción"
+
+#: src/Admin/Settings/APISettings.php:108
+#: src/Admin/Settings/APISettings.php:128
+msgid "The secret key is how PayPal authenticates your account."
+msgstr "La clave secreta es el método empleado por PayPal para identificar tu cuenta."
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:58
+#: src/Admin/Settings/PayLaterMessageSettings.php:81
+#: src/Admin/Settings/PayLaterMessageSettings.php:210
+#: src/Admin/Settings/PayLaterMessageSettings.php:330
+#: src/Admin/Settings/PayLaterMessageSettings.php:471
+#: src/Admin/Settings/PayLaterMessageSettings.php:600
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:54
+#: src/Admin/Settings/PayLaterMessageSettings.php:77
+#: src/Admin/Settings/PayLaterMessageSettings.php:206
+#: src/Admin/Settings/PayLaterMessageSettings.php:326
+#: src/Admin/Settings/PayLaterMessageSettings.php:467
+#: src/Admin/Settings/PayLaterMessageSettings.php:596
+msgid "Flex"
+msgstr "Flexible"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:53
+#: src/Admin/Settings/PayLaterMessageSettings.php:76
+#: src/Admin/Settings/PayLaterMessageSettings.php:205
+#: src/Admin/Settings/PayLaterMessageSettings.php:325
+#: src/Admin/Settings/PayLaterMessageSettings.php:466
+#: src/Admin/Settings/PayLaterMessageSettings.php:595
+msgid "Text"
+msgstr "Texto"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:49
+#: src/Admin/Settings/PayLaterMessageSettings.php:72
+#: src/Admin/Settings/PayLaterMessageSettings.php:201
+#: src/Admin/Settings/PayLaterMessageSettings.php:321
+#: src/Admin/Settings/PayLaterMessageSettings.php:462
+#: src/Admin/Settings/PayLaterMessageSettings.php:591
+msgid "Layout"
+msgstr "Diseño"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:69
+msgid "Location where the Pay Later message appears on the checkout page"
+msgstr "Posición en la que aparece el mensaje de «Pago en 3 Plazos» en la página de pago"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:67
+#: src/Admin/Settings/PayLaterMessageSettings.php:196
+msgid "Above PayPal button"
+msgstr "Sobre botón de PayPal"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:62
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:112
+#: src/Admin/Settings/PayLaterMessageSettings.php:85
+#: src/Admin/Settings/PayLaterMessageSettings.php:147
+#: src/Admin/Settings/PayLaterMessageSettings.php:214
+#: src/Admin/Settings/PayLaterMessageSettings.php:276
+#: src/Admin/Settings/PayLaterMessageSettings.php:334
+#: src/Admin/Settings/PayLaterMessageSettings.php:396
+#: src/Admin/Settings/PayLaterMessageSettings.php:475
+#: src/Admin/Settings/PayLaterMessageSettings.php:537
+#: src/Admin/Settings/PayLaterMessageSettings.php:604
+#: src/Admin/Settings/PayLaterMessageSettings.php:666
+#: src/Payments/Gateways/PayPalGateway.php:189
+#: src/Payments/Gateways/PayPalGateway.php:289
+#: src/Payments/Gateways/PayPalGateway.php:330
+msgid "Black"
+msgstr "Negro"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:66
+msgid "Below order total"
+msgstr "Bajo el total del pedido"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:62
+#: src/Admin/Settings/PayLaterMessageSettings.php:191
+#: src/Admin/Settings/PayLaterMessageSettings.php:452
+#: src/Admin/Settings/PayLaterMessageSettings.php:581
+msgid "Location"
+msgstr "Posición"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:58
+msgid "Enable this option to display the Pay Later messaging on your checkout page."
+msgstr "Activa esta opción para mostrar el mensaje de «Pago en 3 Plazos» en tu página de pago."
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:44
+#: src/Admin/Settings/PayLaterMessageSettings.php:53
+#: src/Admin/Settings/PayLaterMessageSettings.php:183
+#: src/Admin/Settings/PayLaterMessageSettings.php:312
+#: src/Admin/Settings/PayLaterMessageSettings.php:444
+#: src/Admin/Settings/PayLaterMessageSettings.php:573
+#: src/Payments/Gateways/PayPalGateway.php:44
+msgid "Enabled"
+msgstr "Activo"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:50
+msgid "Checkout Page Settings"
+msgstr "Ajustes de la página de pago"
+
+#: src/Admin/Settings/APISettings.php:240
+msgid "Your PayPal account has been connected."
+msgstr "Tu cuenta de PayPal se ha conectado."
+
+#: src/Admin/Settings/AdvancedSettings.php:80
+#: src/Admin/Settings/AdvancedSettings.php:91
+msgid "Above checkout button"
+msgstr "Sobre el botón de pago"
+
+#: src/Admin/Settings/AdvancedSettings.php:59
+msgid "If enabled, the plugin will process a payment cancellation or refund within PayPal when the order's status is set to cancelled."
+msgstr "Si está activo, el plugin procesará una cancelación de pago o un reembolso en PayPal cuando el estado del pedido cambie a cancelado."
+
+#: src/Admin/MetaBoxes/Order.php:143
+msgid "Void"
+msgstr "Nulo"
+
+#: packages/stripe/src/AdvancedSettings.php:21
+msgid "If enabled, the PayPal express buttons will be grouped with the Stripe express buttons on product pages, cart pages, and the express checkout section."
+msgstr "Si está activo, los botones de PayPal express se agruparán con los botones de Stripe express en las páginas de producto, carrito y en la sección de pago exprés."
+
+#: packages/stripe/src/AdvancedSettings.php:17
+msgid "Stripe Express Buttons"
+msgstr "Botones de Stripe Express"
+
+#: src/Admin/Settings/APISettings.php:101
+msgid "Sandbox Secret Key"
+msgstr "Clave secreta del entorno de pruebas"
+
+#: src/Admin/Settings/APISettings.php:98 src/Admin/Settings/APISettings.php:118
+msgid "The Client ID is how PayPal identifies your account."
+msgstr "El Id. de cliente es empleado por PayPal para identificar tu cuenta."
+
+#: src/Admin/Settings/APISettings.php:91
+msgid "Sandbox Client ID"
+msgstr "ID de cliente del entorno de pruebas"
+
+#: src/Admin/Settings/APISettings.php:71 src/Admin/Settings/APISettings.php:74
+#: src/Admin/Settings/APISettings.php:81 src/Admin/Settings/APISettings.php:84
+msgid "Create Webhook"
+msgstr "Crear webhook"
+
+#: src/Admin/Settings/APISettings.php:52 src/Admin/Settings/APISettings.php:63
+msgid "Click to Connect"
+msgstr "Haz clic para conectar"
+
+#: src/Admin/Settings/APISettings.php:49 src/Admin/Settings/APISettings.php:60
+msgid "Connect to PayPal"
+msgstr "Conectar a PayPal"
+
+#: src/Admin/Settings/APISettings.php:46
+msgid "This option determines whether you are processing real transactions or test transactions."
+msgstr "Esta opción determina si estás procesando transacciones reales o de prueba."
+
+#: src/Admin/Settings/APISettings.php:43
+#: src/Rest/Routes/Admin/AdminWebhookCreate.php:53
+msgid "production"
+msgstr "producción"
+
+#: src/Admin/Settings/APISettings.php:38
+msgid "Environment"
+msgstr "Entorno"
+
+#: src/Admin/Settings/APISettings.php:42
+#: src/Rest/Routes/Admin/AdminWebhookCreate.php:53
+msgid "sandbox"
+msgstr "pruebas"
+
+#: src/Admin/Settings/APISettings.php:21 src/Admin/Settings/APISettings.php:29
+msgid "API Settings"
+msgstr "Ajustes de la API"
+
+#: src/Admin/Settings/AdvancedSettings.php:94
+msgid "The location of the payment buttons in relation to the mini-cart checkout button."
+msgstr "Posición de los botones de pago respecto al botón de pago del mini-carrito."
+
+#: src/Admin/Settings/AdvancedSettings.php:86
+msgid "Mini-Cart Button Location"
+msgstr "Posición de botón en mini-carrito"
+
+#: src/Admin/Settings/AdvancedSettings.php:83
+msgid "The location of the payment buttons in relation to the Proceed to checkout button."
+msgstr "Posición de botones de pago rescpecto al botón de «Procesar pago»"
+
+#: src/Admin/Settings/APISettings.php:146
+#: src/Admin/Settings/APISettings.php:166
+msgid ""
+"The webhook ID represents the configured webhook in your PayPal account. If the plugin is unable to create the webhook \n"
+"\t\t\t\tautomatically, you can manually create it and enter the ID here."
+msgstr ""
+"El Id. de webhook representa el webhook configurado en tu cuenta de PayPal. Si el plugin no puede crear el webhook \n"
+"\t\t\t\tautomáticamente, puedes crearlo manualmente e introducir su Id. aquí."
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:107
+#: src/Admin/Settings/PayLaterMessageSettings.php:142
+#: src/Admin/Settings/PayLaterMessageSettings.php:271
+#: src/Admin/Settings/PayLaterMessageSettings.php:391
+#: src/Admin/Settings/PayLaterMessageSettings.php:532
+#: src/Admin/Settings/PayLaterMessageSettings.php:661
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:100
+#: src/Admin/Settings/PayLaterMessageSettings.php:133
+#: src/Admin/Settings/PayLaterMessageSettings.php:262
+#: src/Admin/Settings/PayLaterMessageSettings.php:382
+#: src/Admin/Settings/PayLaterMessageSettings.php:523
+#: src/Admin/Settings/PayLaterMessageSettings.php:652
+msgid "Top"
+msgstr "Arriba"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:99
+#: src/Admin/Settings/PayLaterMessageSettings.php:132
+#: src/Admin/Settings/PayLaterMessageSettings.php:261
+#: src/Admin/Settings/PayLaterMessageSettings.php:381
+#: src/Admin/Settings/PayLaterMessageSettings.php:522
+#: src/Admin/Settings/PayLaterMessageSettings.php:651
+msgid "Right"
+msgstr "Derecha"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:98
+#: src/Admin/Settings/PayLaterMessageSettings.php:131
+#: src/Admin/Settings/PayLaterMessageSettings.php:260
+#: src/Admin/Settings/PayLaterMessageSettings.php:380
+#: src/Admin/Settings/PayLaterMessageSettings.php:521
+#: src/Admin/Settings/PayLaterMessageSettings.php:650
+msgid "Left"
+msgstr "Izquierda"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:94
+#: src/Admin/Settings/PayLaterMessageSettings.php:127
+#: src/Admin/Settings/PayLaterMessageSettings.php:256
+#: src/Admin/Settings/PayLaterMessageSettings.php:376
+#: src/Admin/Settings/PayLaterMessageSettings.php:517
+#: src/Admin/Settings/PayLaterMessageSettings.php:646
+msgid "Logo Position"
+msgstr "Posición del logotipo"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:90
+#: src/Admin/Settings/PayLaterMessageSettings.php:118
+#: src/Admin/Settings/PayLaterMessageSettings.php:247
+#: src/Admin/Settings/PayLaterMessageSettings.php:367
+#: src/Admin/Settings/PayLaterMessageSettings.php:508
+#: src/Admin/Settings/PayLaterMessageSettings.php:637
+msgid "None"
+msgstr "Ninguno"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:89
+#: src/Admin/Settings/PayLaterMessageSettings.php:117
+#: src/Admin/Settings/PayLaterMessageSettings.php:246
+#: src/Admin/Settings/PayLaterMessageSettings.php:366
+#: src/Admin/Settings/PayLaterMessageSettings.php:507
+#: src/Admin/Settings/PayLaterMessageSettings.php:636
+msgid "Inline"
+msgstr "Alineado"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:88
+#: src/Admin/Settings/PayLaterMessageSettings.php:116
+#: src/Admin/Settings/PayLaterMessageSettings.php:245
+#: src/Admin/Settings/PayLaterMessageSettings.php:365
+#: src/Admin/Settings/PayLaterMessageSettings.php:506
+#: src/Admin/Settings/PayLaterMessageSettings.php:635
+msgid "Alternative"
+msgstr "Alternativo"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:87
+#: src/Admin/Settings/PayLaterMessageSettings.php:115
+#: src/Admin/Settings/PayLaterMessageSettings.php:244
+#: src/Admin/Settings/PayLaterMessageSettings.php:364
+#: src/Admin/Settings/PayLaterMessageSettings.php:505
+#: src/Admin/Settings/PayLaterMessageSettings.php:634
+msgid "Primary"
+msgstr "Primario"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:83
+#: src/Admin/Settings/PayLaterMessageSettings.php:112
+#: src/Admin/Settings/PayLaterMessageSettings.php:241
+#: src/Admin/Settings/PayLaterMessageSettings.php:361
+#: src/Admin/Settings/PayLaterMessageSettings.php:502
+#: src/Admin/Settings/PayLaterMessageSettings.php:631
+msgid "Logo Type"
+msgstr "Tipo de logotipo"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:69
+#: src/Admin/Settings/PayLaterMessageSettings.php:95
+#: src/Admin/Settings/PayLaterMessageSettings.php:224
+#: src/Admin/Settings/PayLaterMessageSettings.php:344
+#: src/Admin/Settings/PayLaterMessageSettings.php:485
+#: src/Admin/Settings/PayLaterMessageSettings.php:614
+msgid "Text Size"
+msgstr "Tamaño del texto"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:65
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:118
+#: src/Admin/Settings/PayLaterMessageSettings.php:88
+#: src/Admin/Settings/PayLaterMessageSettings.php:153
+#: src/Admin/Settings/PayLaterMessageSettings.php:217
+#: src/Admin/Settings/PayLaterMessageSettings.php:282
+#: src/Admin/Settings/PayLaterMessageSettings.php:337
+#: src/Admin/Settings/PayLaterMessageSettings.php:402
+#: src/Admin/Settings/PayLaterMessageSettings.php:478
+#: src/Admin/Settings/PayLaterMessageSettings.php:543
+#: src/Admin/Settings/PayLaterMessageSettings.php:607
+#: src/Admin/Settings/PayLaterMessageSettings.php:672
+msgid "Grayscale"
+msgstr "Escala de grises"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:441
+msgid "Mini Cart Settings"
+msgstr "Ajustes del mini carrito"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:309
+msgid "Product Page Settings"
+msgstr "Ajustes de la pagina de productos"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:64
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:116
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:117
+#: src/Admin/Settings/PayLaterMessageSettings.php:87
+#: src/Admin/Settings/PayLaterMessageSettings.php:151
+#: src/Admin/Settings/PayLaterMessageSettings.php:152
+#: src/Admin/Settings/PayLaterMessageSettings.php:216
+#: src/Admin/Settings/PayLaterMessageSettings.php:280
+#: src/Admin/Settings/PayLaterMessageSettings.php:281
+#: src/Admin/Settings/PayLaterMessageSettings.php:336
+#: src/Admin/Settings/PayLaterMessageSettings.php:400
+#: src/Admin/Settings/PayLaterMessageSettings.php:401
+#: src/Admin/Settings/PayLaterMessageSettings.php:477
+#: src/Admin/Settings/PayLaterMessageSettings.php:541
+#: src/Admin/Settings/PayLaterMessageSettings.php:542
+#: src/Admin/Settings/PayLaterMessageSettings.php:606
+#: src/Admin/Settings/PayLaterMessageSettings.php:670
+#: src/Admin/Settings/PayLaterMessageSettings.php:671
+msgid "Monochrome"
+msgstr "Monocromo"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:63
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:113
+#: src/Admin/Settings/PayLaterMessageSettings.php:86
+#: src/Admin/Settings/PayLaterMessageSettings.php:148
+#: src/Admin/Settings/PayLaterMessageSettings.php:215
+#: src/Admin/Settings/PayLaterMessageSettings.php:277
+#: src/Admin/Settings/PayLaterMessageSettings.php:335
+#: src/Admin/Settings/PayLaterMessageSettings.php:397
+#: src/Admin/Settings/PayLaterMessageSettings.php:476
+#: src/Admin/Settings/PayLaterMessageSettings.php:538
+#: src/Admin/Settings/PayLaterMessageSettings.php:605
+#: src/Admin/Settings/PayLaterMessageSettings.php:667
+#: src/Payments/Gateways/PayPalGateway.php:190
+#: src/Payments/Gateways/PayPalGateway.php:290
+#: src/Payments/Gateways/PayPalGateway.php:331
+msgid "White"
+msgstr "Blanco"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:195
+#: src/Admin/Settings/PayLaterMessageSettings.php:456
+msgid "Below cart total"
+msgstr "Bajo el total del carrito"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:180
+msgid "Cart Page Settings"
+msgstr "Ajustes de página de carrito"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:176
+#: src/Admin/Settings/PayLaterMessageSettings.php:305
+#: src/Admin/Settings/PayLaterMessageSettings.php:425
+#: src/Admin/Settings/PayLaterMessageSettings.php:566
+#: src/Admin/Settings/PayLaterMessageSettings.php:695
+msgid "The width x height ratio of the flex layout."
+msgstr "La relación anchura x altura del diseño flexible."
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:125
+#: src/Admin/Settings/PayLaterMessageSettings.php:163
+#: src/Admin/Settings/PayLaterMessageSettings.php:292
+#: src/Admin/Settings/PayLaterMessageSettings.php:412
+#: src/Admin/Settings/PayLaterMessageSettings.php:553
+#: src/Admin/Settings/PayLaterMessageSettings.php:682
+msgid "Flex Ratio"
+msgstr "Relación flex"
+
+#: src/Admin/Settings/PayLaterMessageSettings.php:156
+#: src/Admin/Settings/PayLaterMessageSettings.php:285
+#: src/Admin/Settings/PayLaterMessageSettings.php:405
+#: src/Admin/Settings/PayLaterMessageSettings.php:546
+#: src/Admin/Settings/PayLaterMessageSettings.php:675
+msgid "Sets the color of the message background for flex layout messages."
+msgstr "Establece el color del fondo del mensaje para los mensajes de diseño flexible."
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:115
+#: src/Admin/Settings/PayLaterMessageSettings.php:150
+#: src/Admin/Settings/PayLaterMessageSettings.php:279
+#: src/Admin/Settings/PayLaterMessageSettings.php:399
+#: src/Admin/Settings/PayLaterMessageSettings.php:540
+#: src/Admin/Settings/PayLaterMessageSettings.php:669
+msgid "Gray"
+msgstr "Gris"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:114
+#: src/Admin/Settings/PayLaterMessageSettings.php:149
+#: src/Admin/Settings/PayLaterMessageSettings.php:278
+#: src/Admin/Settings/PayLaterMessageSettings.php:398
+#: src/Admin/Settings/PayLaterMessageSettings.php:539
+#: src/Admin/Settings/PayLaterMessageSettings.php:668
+msgid "White no border"
+msgstr "Blanco sin borde"
+
+#: packages/elementor/src/Widget/ProductPayLaterMessageWidget.php:111
+#: src/Admin/Settings/PayLaterMessageSettings.php:146
+#: src/Admin/Settings/PayLaterMessageSettings.php:275
+#: src/Admin/Settings/PayLaterMessageSettings.php:395
+#: src/Admin/Settings/PayLaterMessageSettings.php:536
+#: src/Admin/Settings/PayLaterMessageSettings.php:665
+#: src/Payments/Gateways/PayPalGateway.php:187
+#: src/Payments/Gateways/PayPalGateway.php:287
+msgid "Blue"
+msgstr "Azul"
+
+#: src/Admin/Views/html-main-navigation.php:26
+#: src/Admin/Views/html-main-page.php:49
+msgid "Support"
+msgstr "Soporte"
+
+#: src/Admin/Views/html-main-navigation.php:23
+#: src/Admin/Views/html-main-page.php:31
+msgid "Documentation"
+msgstr "Documentación"
+
+#: src/Admin/Views/html-main-navigation.php:17
+msgid "Main Page"
+msgstr "Página principal"
+
+#: src/Admin/Views/html-activation-tmpl.php:62
+msgid "%1$sEnable billing address instructions%2$s"
+msgstr "%1$sActivar instrucciones de dirección de facturación%2$s"
+
+#: src/Admin/Views/html-activation-tmpl.php:58
+msgid "Enable Billing Address"
+msgstr "Activar dirección de facturación"
+
+#: src/Admin/Views/html-activation-tmpl.php:54
+msgid "%1$sEnable phone number instructions%2$s"
+msgstr "%1$sActivar instrucciones de número de teléfono%2$s"
+
+#: src/Admin/Views/html-activation-tmpl.php:50
+msgid "Enable Customer Phone Number"
+msgstr "Activar número de teléfono del cliente"
+
+#: src/Admin/Views/html-activation-tmpl.php:30
+msgid "Connecting The Plugin"
+msgstr "Conectando el plugin"
+
+#: src/Admin/Views/html-activation-tmpl.php:60
+msgid ""
+"If you sell digital goods that don't require shipping, we recommend you enable the billing address option. When enabled on your account, the customer's billing address will be provided by PayPal. This\n"
+"\t\t\t                        allows the plugin to auto-populate your checkout page billing address fields."
+msgstr ""
+"Si vendes bienes digitales que no necesitan envío, te recomendamos que actives la opción «Dirección de facturación». Al activarse en tu cuenta, la dirección de facturación del cliente será la proporcionada por PayPal. Esto\n"
+"\t\t\t                        permite al plugin autorellenar los campos de la dirección de facturación en la página de pago."
+
+#: src/Admin/Views/html-activation-tmpl.php:15
+msgid "By Payment Plugins"
+msgstr "Por Payment Plugins"
+
+#: src/Admin/Views/html-activation-tmpl.php:25
+msgid "Thank you for installing PayPal WooCommerce! Here are a few helpful tips that will ensure you can start accepting payments quickly and easily."
+msgstr "¡Gracias por instalar PayPal WooCommerce! Aquí se muestran algunos consejos útiles que te permitirán empezar a aceptar pagos de manera rápida y sencilla."
+
+#: src/Admin/Views/html-activation-tmpl.php:52
+msgid ""
+"If you require a billing phone number during checkout, we recommend you enable the contact phone number option in your PayPal account. When enabled, PayPal will\n"
+"                                    provide the customer's phone number, which the plugin will use to populate the checkout page. It will improve conversion rates since the customer won't have to enter their phone number."
+msgstr ""
+"Si se requiere un número de teléfono de facturación en la página de pago, te recomendamos que actives la opción de número de teléfono de contacto en tu cuenta de PayPal. Al activarse, PayPal proporcionará\n"
+"                                    el número de teléfono del cliente, que el plugin utilizará para rellenar la página de pago. Con esto se mejora la tasa de conversión ya que el cliente no tiene que introducir su número de teléfono."
+
+#: src/Admin/Views/html-activation-tmpl.php:43
+msgid ""
+"Reference transactions are used to process things like subscriptions and pre-orders. If you don't currently have\n"
+"                                    reference transactions enabled on your production account, you will need to submit a request to PayPal. Reference transactions are enabled by default on sandbox accounts. %1$sReference transaction request instructions.%2$s"
+msgstr ""
+"Las transacciones por referencia se emplean para procesar cosas tales como las suscripciones o las preventas. Si por ahora no\n"
+"                                    tienes las transacciones por referencia activas en tu cuenta de producción, necesitará solicitarlas a PayPal. Las transacciones por referencia están activas por defecto en las cuentas del entorno de pruebas. %1$sInstrucciones para solicitar transacciones por referencia.%2$s"
+
+#: src/Admin/Views/html-activation-tmpl.php:40
+msgid "Enable Reference Transactions"
+msgstr "Activar transacciones por referencia"
+
+#: src/Integrations/WooCommerceSubscriptions.php:243
+msgid "Recurring payment failed. Reason: %s"
+msgstr "Fallo en pago periódico. Motivo: %s"
+
+#: src/Integrations/WooCommerceSubscriptions.php:154
+msgid "Error saving payment method for subscription. Reason: %s"
+msgstr "Error al guardar método de pago de suscripción. Motivo: %s"
+
+#: src/Integrations/WooCommercePreOrders.php:171
+#: src/Integrations/WooCommerceSubscriptions.php:310
+msgid "Please select a shipping method for your order."
+msgstr "Por favor, selecciona un método de envío para tu pedido."
+
+#: src/Integrations/WooCommercePreOrders.php:156
+msgid "Payment for pre-order failed. Reason: %s"
+msgstr "Fallo en el pago de la preventa. Motivo: %s"
+
+#: src/Factories/PurchaseUnitFactory.php:57
+msgid "Order %1$s from %2$s"
+msgstr "Pedido %1$s de %2$s"
+
+#: src/Admin/Views/html-support-page.php:34
+msgid "Click the Create Ticket button and enter all the required information."
+msgstr "Haz clic en el botón «Crear tique» e introduce toda la información requerida."
+
+#: src/Admin/Views/html-support-page.php:31
+msgid "While we commit to a 3 day turnaround, most tickets receive a response within 24 hrs."
+msgstr "Aunque nos comprometemos a responder en 3 días, la mayor parte te tiques reciben una respuesta en 24 horas."
+
+#: src/Admin/Views/html-support-page.php:16
+msgid "Note: we commit to a 3 day turnaround with free support."
+msgstr "Nota: nos comprometemos a responder en 3 days con el soporte gratuito."
+
+#: src/Admin/Views/html-support-page.php:14
+msgid "Have a question? Need some help? Please submit a ticket and one of our support specialists will get back to you."
+msgstr "¿Alguna pregunta? ¿Necesitas ayuda? Envíanos un tique y uno de nuestros especialistas de soporte se pondrá en contacto contigo."
+
+#: src/Admin/Views/html-support-page.php:12
+msgid "We're here to help you."
+msgstr "Estamos aquí para ayudarte."
+
+#: src/Admin/Views/html-main-page.php:57
+msgid "Our support team is ready to assist you."
+msgstr "Nuestro equipo de soporte esta listo para ayudarte."
+
+#: src/Admin/Views/html-main-page.php:55
+msgid "Have a question?"
+msgstr "¿Tienes alguna pregunta?"
+
+#: src/Admin/Views/html-main-page.php:40
+msgid "Our config guide and API docs are a great place to start."
+msgstr "Nuestra guía de configuración y documentos de la API son un buen sitio para empezar."
+
+#: src/Admin/Views/html-main-page.php:38
+msgid "Want in depth documentation?"
+msgstr "¿Quieres una documentación completa?"
+
+#: src/Admin/Views/html-main-page.php:23
+msgid "Connect your PayPal account, enable payment methods, and customize the plugin settings to fit your business needs."
+msgstr "Conecta tu cuenta de PayPal, activa métodos de pago y personaliza los ajustes del plugin para que se adapte a las necesidades de tu negocio."
+
+#: src/Payments/Gateways/PayPalGateway.php:49
+msgid "Enable this option to offer PayPal on your site."
+msgstr "Activa esta opción para ofrecer PayPal en tu sitio."
+
+#: src/Payments/Gateways/PayPalGateway.php:31
+msgid "Offer PayPal, PayLater, Venmo, and Credit Cards"
+msgstr "Ofrece PayPal, Paga en 3 Plazos, Venmo y Tarjetas de crédito"
+
+#: src/Payments/Gateways/AbstractGateway.php:248
+#: src/WebhookEventReceiver.php:121
+msgid "Order refunded in PayPal. Amount: %1$s. Refund ID: %2$s"
+msgstr "Pedido reembolsado en PayPal. Importe: %1$s. Id. de reembolso: %2$s"
+
+#: src/Payments/Gateways/AbstractGateway.php:232
+msgid "Error processing refund. Reason: %s"
+msgstr "Error al procesar reembolso. Motivo: %s"
+
+#: src/Payments/Gateways/AbstractGateway.php:211
+msgid "There was an error processing your payment. Reason: %s"
+msgstr "Hubo un error al procesar tu pago. Motivo: %s"
+
+#: src/PaymentHandler.php:360
+msgid "Error processing void. Reason: %s"
+msgstr "Error al procesar void. Motivo: %s"
+
+#: src/PaymentHandler.php:342
+msgid "A valid authorization ID is required to perform a void."
+msgstr "Se necesita un Id. de autorización válido para realizar una anulación."
+
+#: src/PaymentHandler.php:310
+msgid "Payment captured in PayPal. Capture ID: %s Amount: %s"
+msgstr "Pago capturado en PayPal. Id. de captura: %s. Importe: %s"
+
+#: src/PaymentHandler.php:306
+msgid "Error capturing payment. Reason: %s"
+msgstr "Error al capturar pago. Motivo: %s"
+
+#: src/PaymentHandler.php:263
+msgid "This payment has a status of Authorize. Only captured payments can be refunded."
+msgstr "El pago se encuentra en estado autorizado. Sólo pueden reembolsarse los pagos capturados."
+
+#: src/PaymentHandler.php:260
+msgid "To process a refund, there must be a transaction id associated with the order."
+msgstr "Para procesar un reembolso, debe haber un Id. de transacción asociado al pedido."
+
+#: src/PaymentHandler.php:168
+msgid "PayPal order %s created. %s"
+msgstr "Pedido PayPal %s creado. %s"
+
+#: src/PaymentHandler.php:116
+msgid "Error processing payment. Reason: %s"
+msgstr "Error al procesar el pago. Motivo: %s"
+
+#: src/Integrations/WooCommerceSubscriptions.php:256
+msgid "Billing Agreement ID"
+msgstr "Id. de acuerdo de pagos"
+
+#: src/Payments/Gateways/PayPalGateway.php:178
+msgid "PayPal Button Design"
+msgstr "Diseño de botón de PayPal"
+
+#: src/Payments/Gateways/PayPalGateway.php:128
+msgid "This option controls how the PayPal payment method appears on the frontend."
+msgstr "Esta opción controla cómo se muestra el método de pago PayPal en la vista pública."
+
+#: src/Payments/Gateways/PayPalGateway.php:123
+msgid "Payment Method Format"
+msgstr "Formato de método de pago"
+
+#: src/Payments/Gateways/PayPalGateway.php:120
+msgid "These are the sections that the PayPal payment button will appear. If PayPal is enabled, the button will show on the checkout page by default."
+msgstr "Estas son las secciones en las que el botón de pago PayPal aparecerá. Si PayPal está activo, el botón se mostrará por defecto en la página de pago."
+
+#: src/Payments/Gateways/PayPalGateway.php:111
+msgid "PayPal Payment Sections"
+msgstr "Secciones de pago PayPal"
+
+#: src/Payments/Gateways/PayPalGateway.php:108
+msgid "This is the billing agreement description that appears in the PayPal popup."
+msgstr "Esta es la descripción de acuerdo de pagos que aparece en la ventana emergente de PayPal."
+
+#: src/Payments/Gateways/PayPalGateway.php:101
+msgid "If the transaction is authorized, this is the status applied to the order."
+msgstr "Si se autoriza la transacción, se aplicará este estado al pedido."
+
+#: src/Payments/Gateways/PayPalGateway.php:89
+msgctxt "Order status"
+msgid "Pending payment"
+msgstr "Pago pendiente"
+
+#: src/Payments/Gateways/PayPalGateway.php:84
+msgid "Authorized Order Status"
+msgstr "Estado de pedido autorizado"
+
+#: src/Payments/Gateways/PayPalGateway.php:72
+#: src/Payments/Gateways/PayPalGateway.php:514
+msgid "Authorize"
+msgstr "Autorizar"
+
+#: src/Payments/Gateways/PayPalGateway.php:68
+#: src/Payments/Gateways/PayPalGateway.php:509
+msgid "Transaction Type"
+msgstr "Tipo de transacción"
+
+#: src/Payments/Gateways/PayPalGateway.php:63
+msgid "This is the description that appears when the payment gateway is selected on the checkout page."
+msgstr "Esta es la descripción que aparece cuando se selecciona la pasarela de pagos en la página de pago."
+
+#: src/Payments/Gateways/PayPalGateway.php:59
+msgid "Description"
+msgstr "Descripción"
+
+#: src/Payments/Gateways/PayPalGateway.php:56
+msgid "This is the title of the payment gateway which appears on the checkout page."
+msgstr "Este es el título de la pasarela de pagos que aparece en la página de pago."
+
+#: src/Payments/Gateways/PayPalGateway.php:75
+#: src/Payments/Gateways/PayPalGateway.php:517
+msgid ""
+"If set to capture, funds will be captured immediately during checkout. Authorized transactions put a hold on the customer's funds but\n"
+"\t\t\t\t\t\tno payment is taken until the charge is captured. Authorized charges can be captured on the Admin Order page."
+msgstr ""
+"Si se configura a «capturar», los fondos se capturarán justo en el momento del pago. Las transacciones autorizadas retienen los fondos del cliente pero\n"
+"\t\t\t\t\t\tel pago no se lleva a cabo hasta que el cobro se captura. Los cargos autorizados pueden capturarse desde la página administrativa de edición del pedido."
+
+#: src/Payments/Gateways/PayPalGateway.php:246
+msgid "If enabled, you will be able to offer Venmo. Venmo is a mobile payment method and the Venmo app must be installed on the customer's device in order to show."
+msgstr "Si se activa, podrá ofrecer Venmo. Venmo es un método de pago móvil y la app Venmo deberá estar instalada en el dispositivo del cliente para que se muestre."
+
+#: src/Payments/Gateways/PayPalGateway.php:241
+msgid "Venmo"
+msgstr "Venmo"
+
+#: src/Payments/Gateways/PayPalGateway.php:237
+msgid "Venmo Options"
+msgstr "Opciones de Venmo"
+
+#: src/Payments/Gateways/PayPalGateway.php:230
+msgid "Enabled payment methods are listed below and can be sorted to control their display order on the frontend."
+msgstr "Los métodos de pago activos se muestran debajo y pueden ordenarse para controlar el orden en que se muestran en la vista pública del sitio."
+
+#: src/Payments/Gateways/PayPalGateway.php:227
+msgid "Demo"
+msgstr "Demo"
+
+#: src/Payments/Gateways/PayPalGateway.php:139
+msgid "You can choose to render the PayPal button in either the payment method section of the checkout page or where the Place Order button is rendered."
+msgstr "Puede elegir mostrar el botón de PayPal en la sección de métodos de pago de la página de pago o donde se muestra el botón «Realizar pedido»."
+
+#: src/Payments/Gateways/PayPalGateway.php:135
+msgid "In payment gateway section"
+msgstr "En la sección de pasarelas de pago"
+
+#: src/Payments/Gateways/PayPalGateway.php:131
+msgid "Checkout page Button Placement"
+msgstr "Posición del botón en página de pago"
+
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:84
+#: src/Payments/Gateways/PayPalGateway.php:217
+msgid "Button Height"
+msgstr "Altura de botón"
+
+#: src/Payments/Gateways/PayPalGateway.php:200
+msgid "Rectangle"
+msgstr "Rectangular"
+
+#: src/Payments/Gateways/PayPalGateway.php:199
+msgid "Pill"
+msgstr "Pastilla"
+
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:78
+#: src/Payments/Gateways/PayPalGateway.php:195
+msgid "Button Shape"
+msgstr "Forma del botón"
+
+#: src/Payments/Gateways/PayPalGateway.php:188
+#: src/Payments/Gateways/PayPalGateway.php:288
+msgid "Silver"
+msgstr "Plata"
+
+#: src/Payments/Gateways/PayPalGateway.php:186
+#: src/Payments/Gateways/PayPalGateway.php:286
+msgid "Gold"
+msgstr "Dorado"
+
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:112
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:132
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:152
+#: src/Payments/Gateways/PayPalGateway.php:182
+msgid "Button Color"
+msgstr "Color del botón"
+
+#: src/Payments/Gateways/PayPalGateway.php:543
+msgid "This option allows you to control the width of the payment buttons."
+msgstr "Esta opción te permite controlar la anchura de los botones de pago."
+
+#: src/Payments/Gateways/PayPalGateway.php:540
+msgid "Match width of container"
+msgstr "Ajustar a ancho máximo del contenedor"
+
+#: src/Payments/Gateways/PayPalGateway.php:539
+msgid "Match add to cart button width"
+msgstr "Ajustar a anchura del botón «Añadir al carrito»"
+
+#: src/Payments/Gateways/PayPalGateway.php:535
+msgid "Button Width"
+msgstr "Anchura del botón"
+
+#: src/Payments/Gateways/PayPalGateway.php:323
+msgid "Card Button Color"
+msgstr "Color de botón de tarjetas"
+
+#: src/Payments/Gateways/PayPalGateway.php:319
+msgid "If enabled, the card button will be included."
+msgstr "Si se activa, se incluirá el botón de tarjetas."
+
+#: src/Payments/Gateways/PayPalGateway.php:310
+msgid "Credit Card Options"
+msgstr "Opciones de tarjeta de crédito"
+
+#: src/Payments/Gateways/PayPalGateway.php:306
+#: src/Payments/Gateways/PayPalGateway.php:359
+msgid "These are the sections that the PayPal payment buttons will appear."
+msgstr "Estas son las secciones en las que aparecerán los botones de pago PayPal."
+
+#: src/Payments/Gateways/PayPalGateway.php:262
+msgid "These are the sections that the Venmo payment button will appear."
+msgstr "Estas son las secciones en las que aparecerá el botón de pago por Venmo."
+
+#: src/Payments/Gateways/PayPalGateway.php:250
+msgid "Venmo Payment Sections"
+msgstr "Secciones de pago por Venmo"
+
+#: src/Traits/Settings.php:196
+msgid "Click to copy"
+msgstr "Haz clic para copiar"
+
+#: src/Traits/Settings.php:50
+msgid "for"
+msgstr "para"
+
+#: src/Tokens/PayPalToken.php:21
+msgid "PayPal - john@paypal.com"
+msgstr "PayPal - nombre@paypal.com"
+
+#: src/Rest/Routes/WebhookRoute.php:68
+msgid "Verification of Webhook signature failed."
+msgstr "La verificación de firma del webhook falló."
+
+#: src/Rest/Routes/OrderPay.php:66
+msgid "Invalid order key provided."
+msgstr "Clave de pedido proporcionada no válida."
+
+#: src/Rest/Routes/OrderPay.php:62
+msgid "Invalid order Id."
+msgstr "Id. de pedido no válido"
+
+#: src/Rest/Routes/CartShipping.php:68
+msgid "Error fetching order %s. Reason: %s"
+msgstr "Error al recuperar pedido %s. Motivo: %s"
+
+#: src/Rest/Routes/Admin/ConnectAccount.php:127
+msgid "Your API credentials have been saved and your PayPal account is connected."
+msgstr "Tus credenciales de la API se han almacenado y tu cuenta de PayPal está conectada."
+
+#: src/Rest/Routes/Admin/AdminWebhookCreate.php:45
+msgid "Webhooks cannot be configured on localhost."
+msgstr "No se pueden configurar Webhooks en localhost."
+
+#: src/Rest/Routes/Admin/AdminWebhookCreate.php:77
+msgid "Your webhook has been created in PayPal."
+msgstr "Tu webhook se ha creado en PayPal."
+
+#: src/Rest/Routes/Admin/AdminWebhookCreate.php:52
+msgid "You must connect %s before your webhook can be created."
+msgstr "Debes conectar %s antes de poder crear tu webhook."
+
+#: src/Rest/Routes/Admin/AbstractRoute.php:15
+msgid "You do not have permission to access this resource."
+msgstr "No tienes permiso para acceder a este recurso."
+
+#: src/PluginValidation.php:19
+msgid "Payment Plugins for PayPal WooCommerce requires PHP 7.1 or greater."
+msgstr "Payment Plugins para PayPal WooCommerce necesita PHP 7.1 o superior."
+
+#: src/Payments/Gateways/PayPalGateway.php:563
+msgid "Minicart"
+msgstr "Minicarrito"
+
+#: templates/checkout/paypal.php:33
+msgid "Please connect your PayPal account before using PayPal."
+msgstr "Por favor, conecta tu cuenta de PayPal antes de usar PayPal."
+
+#: templates/checkout/paypal.php:29
+#: packages/blocks/assets/js/payment-methods/paypal/index.js:139
+#: packages/blocks/build/blocks-commons.js:1
+#: packages/blocks/build/blocks-commons.js:713
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: templates/checkout/paypal.php:26
+msgid "Your PayPal payment method is ready to be processed. Please review your order details then click %s"
+msgstr "Tu método de pago de PayPal está listo para ser procesado. Por favor, revisa los detalles de tu pedigo y luego pulsa %s"
+
+#: templates/checkout/express-checkout.php:21
+msgid "OR"
+msgstr "O"
+
+#: templates/cart/payment-methods.php:13 templates/cart/payment-methods.php:25
+msgid "or"
+msgstr "o"
+
+#: src/WebhookEventReceiver.php:110
+msgid "Refund created within PayPal."
+msgstr "Reembolso creado en PayPal."
+
+#: src/Admin/Views/html-activation-tmpl.php:33
+msgid ""
+"In order to start processing payments in production or sandbox, you must connect the plugin. You can either\n"
+"                                    connect by manually entering your client ID and secret, or using our automated connect integration. Click %1$shere%2$s to\n"
+"                                    navigate to the API Settings page where you can connect."
+msgstr ""
+"Es necesario conectar el plugin para comenzar a procesar pagos en producción o en el entorno de pruebas. Puedes tanto\n"
+"                                    conectarlo manualmente introduciendo tu Id. de cliente y el secreto, o mediante nuestra integración de conexión automatizada. Haz clic %1$saquí%2$s para\n"
+"                                    ir a la página de ajustes de la API donde puedes configurar la conexión."
+
+#: packages/elementor/src/Widget/AbstractButtonWidget.php:106
+#: src/Payments/Gateways/PayPalGateway.php:205
+msgid "Button Label"
+msgstr "Etiqueta del botón"
+
+#: src/Messages.php:20
+msgid "Please check the terms and conditions before proceeding."
+msgstr "Consulta los términos y condiciones antes de continuar."
+
+#: src/Tokens/PayPalToken.php:22
+msgid "Name plus email"
+msgstr "Nombre y correo electrónico"
